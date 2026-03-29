@@ -19,7 +19,7 @@
 
 #### Food delivery is a service where restaurants or companies deliver ordered food to customers through online platforms or mobile apps. Deliveries are typically made using vehicles like cars, bikes, or scooters, depending on location.
 
-#### fields:
+#### Fields:
 * ID (ID,	Delivery person ID)
 * Delivery (person Age,	person Ratings, location latitude, location longitude
 * Restaurant location ( latitude, longitude)
@@ -118,14 +118,14 @@ Performed SQL-based analysis using:
 
 ## Project Structure
 
-food-delivery-operations-analysis
-│
-├── 01_database_setup.sql
-├── 02_data_inspection.sql
-├── 03_data_cleaning.sql
-├── 04_data_validation.sql
-├── 05_analysis.sql
-└── README.md
+* food-delivery-operations-analysis
+* │
+* ├── 01_database_setup.sql
+* ├── 02_data_inspection.sql
+* ├── 03_data_cleaning.sql
+* ├── 04_data_validation.sql
+* ├── 05_analysis.sql
+* └── README.md
 
 ---
 
