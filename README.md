@@ -129,6 +129,28 @@ food-delivery-operations-analysis
 
 ---
 
+## Top 5 Insights of this Project 
+
+#### 1. Order and Time in Different Conditions 
+<img width="335" height="127" alt="image" src="https://github.com/user-attachments/assets/e02bbd64-3501-4d35-9322-de80279a0728" />
+#### Insights 
+
+#### 2. Orders During Festival 
+<img width="359" height="98" alt="image" src="https://github.com/user-attachments/assets/912b88db-6019-4876-be0c-6578b963ac9e" />
+#### Insights 
+
+#### 3. Multiple Deliveries Impact
+<img width="400" height="140" alt="image" src="https://github.com/user-attachments/assets/ac776087-d18d-41c1-bc8b-a14652ff6e88" />
+#### Insights 
+
+#### 4. Weather Impact on Deliveries
+<img width="423" height="156" alt="image" src="https://github.com/user-attachments/assets/6e62fd2e-992f-4dfb-a38e-66058314def6" />
+
+#### 5. Most delay time 
+<img width="402" height="176" alt="image" src="https://github.com/user-attachments/assets/5ac161c4-a9ff-4cc4-bdb2-15692be4ceae" />
+
+---
+
 ### What I Learned
 1. How to clean and prepare real-world messy datasets
 2. How to perform operational analysis using SQL
