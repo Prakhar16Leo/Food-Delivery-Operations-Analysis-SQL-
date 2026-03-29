@@ -133,21 +133,23 @@ Performed SQL-based analysis using:
 
 #### 1. Order and Time in Different Conditions 
 <img width="335" height="127" alt="image" src="https://github.com/user-attachments/assets/e02bbd64-3501-4d35-9322-de80279a0728" />
-#### Insights 
+#### Delivery time increases significantly with higher traffic levels, with traffic jams causing the longest delays, making traffic one of the most critical factors affecting delivery performance.
 
-#### 2. Orders During Festival 
+#### 2. Impact of Festival on Delivery Time
 <img width="359" height="98" alt="image" src="https://github.com/user-attachments/assets/912b88db-6019-4876-be0c-6578b963ac9e" />
-#### Insights 
+#### Deliveries during festivals take significantly longer, with average delivery time nearly doubling compared to non-festival periods, indicating increased operational load and congestion.
 
-#### 3. Multiple Deliveries Impact
+#### 3. Impact of Multiple Deliveries on Delivery Time
 <img width="400" height="140" alt="image" src="https://github.com/user-attachments/assets/ac776087-d18d-41c1-bc8b-a14652ff6e88" />
-#### Insights 
+#### Delivery time increases significantly as the number of assigned deliveries increases, with orders involving multiple deliveries taking nearly twice as long compared to single deliveries.
 
-#### 4. Weather Impact on Deliveries
+#### 4. Impact of Weather Conditions on Delivery Time
 <img width="423" height="156" alt="image" src="https://github.com/user-attachments/assets/6e62fd2e-992f-4dfb-a38e-66058314def6" />
+#### Poor weather conditions increase delivery time, while sunny conditions result in faster deliveries.
 
-#### 5. Most delay time 
+#### 5. Peak Delay Periods Under High Traffic Conditions
 <img width="402" height="176" alt="image" src="https://github.com/user-attachments/assets/5ac161c4-a9ff-4cc4-bdb2-15692be4ceae" />
+#### The highest delivery delays occur during late evening hours under traffic jam conditions, indicating peak congestion periods as the primary driver of maximum delivery time.
 
 ---
 
